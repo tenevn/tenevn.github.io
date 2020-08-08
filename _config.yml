@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/cover.jpg"
   bio    : "Economist"
   links:
-      - label: "Email"
-      icon: "fa fa-envelope"
-      url: "mailto:nicholas.tenev@protonmail.com"
+     - label: "Email"
+     icon: "fa fa-envelope"
+     url: "mailto:nicholas.tenev@protonmail.com"
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
 #      url: "https://tenevn.github.io"
@@ -78,14 +78,14 @@ author:
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
 
-#footer:
- # links:
- #   - label: "Email"
- #     icon: "fa fa-envelope"
- #     url: "mailto:nicholas.tenev@protonmail.com"
- #   - label: "Twitter"
- #     icon: "fab fa-fw fa-twitter-square"
- #     url: "https://twitter.com/"
+footer:
+  links:
+    - label: "Email"
+      icon: "fa fa-envelope"
+      url: "mailto:nicholas.tenev@protonmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
  #   - label: "GitHub"
  #     icon: "fab fa-fw fa-github"
  #     url: "https://github.com/"
