@@ -7,7 +7,19 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.page__lead {
-  font-family: $global-font-family;
-  font-size: $type-size-3;
+# override font sizes; see https://github.com/mmistakes/minimal-mistakes/issues/1219
+html {
+  font-size: 14px; // change to whatever
+
+  @include breakpoint($medium) {
+    font-size: 18px; // change to whatever
+  }
+
+  @include breakpoint($large) {
+    font-size: 20px; // change to whatever
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 22px; // change to whatever
+  }
 }
