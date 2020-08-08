@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
+twitter_username: nick_tenev
 github_username: tenevn
 minimal_mistakes_skin: mint
 search: true
@@ -62,30 +62,33 @@ author:
   avatar : "/assets/images/cover.jpg"
   bio    : "Economist"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://tenevn.github.io"
+      - label: "Email"
+      icon: "fa fa-envelope"
+      url: "mailto:nicholas.tenev@protonmail.com"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://tenevn.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tenevn"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/tenevn"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
 
-footer:
-  links:
-    - label: "Email"
-      icon: "fa fa-envelope"
-      url: "mailto:nicholas.tenev@protonmail.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+#footer:
+ # links:
+ #   - label: "Email"
+ #     icon: "fa fa-envelope"
+ #     url: "mailto:nicholas.tenev@protonmail.com"
+ #   - label: "Twitter"
+ #     icon: "fab fa-fw fa-twitter-square"
+ #     url: "https://twitter.com/"
+ #   - label: "GitHub"
+ #     icon: "fab fa-fw fa-github"
+ #     url: "https://github.com/"
  #   - label: "Instagram"
  #     icon: "fab fa-fw fa-instagram"
  #     url: "https://instagram.com/"
