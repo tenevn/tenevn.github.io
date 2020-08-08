@@ -78,7 +78,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fa fa-envelope"
       url: "mailto:nicholas.tenev@protonmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
