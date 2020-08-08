@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Nicholas Tenev"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/cover.jpg"
   bio    : "Economist"
   links:
     - label: "Website"
