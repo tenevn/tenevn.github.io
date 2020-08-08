@@ -1,1 +1,6 @@
-CV
+---
+permalink: /cv/
+title: "CV"
+---
+
+CV TK
