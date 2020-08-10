@@ -6,8 +6,8 @@ title: "Curriciulum Vitae"
 Labor Economics, Networks, Finance
 
 <h5>Employment</h5>
-<p>Office of the Comptroller of the Currency, Compliance Risk Analysis Division.  
-   _Financial Economist_, August 2018–present.</p>  
+Office of the Comptroller of the Currency, Compliance Risk Analysis Division.  
+   _Financial Economist_, August 2018–present.  
 Barclays Capital, US Economics Research.  
    _Assistant Vice President_, March–June 2011.  
    _Analyst_, July 2008–February 2011.  
