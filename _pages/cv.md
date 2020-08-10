@@ -7,10 +7,10 @@ Labor Economics, Networks, Finance
 
 <h5>Employment</h5>
 Office of the Comptroller of the Currency, Compliance Risk Analysis Division.  
-   _Financial Economist_, August 2018–present.  
+&emsp   _Financial Economist_, August 2018–present.  
 Barclays Capital, US Economics Research.  
-   _Assistant Vice President_, March–June 2011.  
-   _Analyst_, July 2008–February 2011.  
+&emsp   _Assistant Vice President_, March–June 2011.  
+&emsp   _Analyst_, July 2008–February 2011.  
 
 <h5>Education</h5>
 Ph.D. Economics, University of Wisconsin–Madison, 2018  
