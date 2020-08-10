@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
-The views in these papers do not necessarily reflect the views of the Office of the Comptroller of the Currency, the US  Department of the Treasury, or any federal agency and do not establish supervisory policy, requirements, or expectations.
+_The views in these papers do not necessarily reflect the views of the Office of the Comptroller of the Currency, the US  Department of the Treasury, or any federal agency and do not establish supervisory policy, requirements, or expectations._
 
 <p style="text-align: right"><h3>Published</h3></p>
 <b>Voting and Social Pressure Under Imperfect Information</b> (with [Alexander Clark](https://sites.google.com/site/alexanderthclark/)) <br>
