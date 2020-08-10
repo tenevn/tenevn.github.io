@@ -5,9 +5,7 @@ title: "Research"
 
 The views in these papers do not necessarily reflect the views of the Office of the Comptroller of the Currency, the US  Department of the Treasury, or any federal agency and do not establish supervisory policy, requirements, or expectations.
 
-<p style="text-align: right">
-<h3>Published</h3>
-</p>
+<p style="text-align: right"><h3>Published</h3></p>
 <b>Voting and Social Pressure Under Imperfect Information</b> (with [Alexander Clark](https://sites.google.com/site/alexanderthclark/)) <br>
 [International Economic Review, 2019](https://onlinelibrary.wiley.com/doi/abs/10.1111/iere.12401) <br>
 We develop a model in which costly voting in a large two-party election is a sequentially rational choice of strategic, self-interested players who can reward fellow voters by forming stronger ties in a network formation coordination game. The predictions match a variety of stylized facts, including explaining why an individual's voting behavior may depend on what she knows about her friends' actions. Players have imperfect information about others' voting behavior, and we find that some degree of privacy may actually be necessary for voting in equilibrium, enabling hypocritical but useful social pressure. Our framework applies to any costly prosocial behavior.
