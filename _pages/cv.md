@@ -7,10 +7,10 @@ Labor Economics, Networks, Finance
 
 <h5>Employment</h5>
 Office of the Comptroller of the Currency, Compliance Risk Analysis Division.  
-&emsp;   _Financial Economist_, August 2018–present.  
+&emsp; &emsp;   _Financial Economist_, August 2018–present.  
 Barclays Capital, US Economics Research.  
-&emsp;   _Assistant Vice President_, March–June 2011.  
-&emsp;   _Analyst_, July 2008–February 2011.  
+&emsp; &emsp;   _Assistant Vice President_, March–June 2011.  
+&emsp; &emsp;  _Analyst_, July 2008–February 2011.  
 
 <h5>Education</h5>
 Ph.D. Economics, University of Wisconsin–Madison, 2018  
@@ -23,7 +23,7 @@ Matlab, Stata
 
 <h5>Publications</h5>
 "Voting and Social Pressure Under Imperfect Information," with Alexander Clark.  
-   _International Economic Review_, 2019.
+&emsp; &emsp;   _International Economic Review_, 2019.
 
 <h5>Working Papers</h5>
 "Social Capital and Racial Inequality."  
