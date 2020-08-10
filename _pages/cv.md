@@ -26,7 +26,7 @@ Matlab, Stata
 &emsp; &emsp;   _International Economic Review_, 2019.
 
 <h5>Working Papers</h5>
-"Social Capital and Racial Inequality."  
+"Social Connections and Racial Wage Inequality."  
 "Coordinated Shirking."
 
 
