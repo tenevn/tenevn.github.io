@@ -10,10 +10,10 @@ title: "CV"
 
 <h4>Employment</h4>
     Office of the Comptroller of the Currency, Compliance Risk Analysis Division.<br>
-            Financial Economist, August 2018–present.<br>
+    \qquad Financial Economist, August 2018–present.<br>
     Barclays Capital, US Economics Research.<br>
-            Assistant Vice President, March–June 2011.<br>
-            Analyst, July 2008–February 2011.<br>
+    \qquad Assistant Vice President, March–June 2011.<br>
+    \qquad Analyst, July 2008–February 2011.<br>
 
 <h4>Education</h4>
     Ph.D. Economics, University of Wisconsin–Madison, 2018<br>
