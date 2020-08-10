@@ -1,10 +1,7 @@
 ---
 permalink: /cv/
-title: "CV"
+title: "Curriciulum Vitae"
 ---
-
-<h3>Curriculum Vitae</h3>
-
 <h4>Fields of Interest</h4>
 Labor Economics, Networks, Finance
 
@@ -20,6 +17,9 @@ Ph.D. Economics, University of Wisconsin–Madison, 2018
 M.S. Economics, University of Wisconsin–Madison, 2014  
 M.A. Economics, Duke University, 2012  
 B.A. Physics and Economics-Mathematics, Columbia University, 2008  
+
+<h4>Technical skills</h4>
+Matlab, Stata
 
 <h4>Publications</h4>
 "Voting and Social Pressure Under Imperfect Information," with Alexander Clark.  
