@@ -13,6 +13,10 @@ We develop a model in which costly voting in a large two-party election is a seq
 <p style="text-align: right">
 <h3>Working papers</h3>
 </p>
+<b>Optimal Echo Chambers</b> (with [Gabriel Martinez-Roa](https://gabriel-martinez-roa.github.io/))<br>
+[latest draft October 2020](https://arxiv.org/abs/2010.01249) <br>
+This paper studies some benefits of ignoring those who disagree with you. We model a decision maker who draws a signal about the (real-valued) state of the world from a collection of unbiased sources of heterogeneous quality. Exclusively sampling signals close to the prior expectation can be beneficial, as they are more likely high quality. Since echo chambers are a rational response to uncertain information quality, eliminating them can backfire. Signals close to the prior expectation can move beliefs further than more contrary views; limiting the ability to ignore opposing views can make beliefs less accurate and reduce the extent to which signals are heeded. 
+
 <b>Social Connections and Racial Wage Inequality</b> <br>
 [latest draft May 2020](https://osf.io/vm82w/) <br>
 How much of the wage gap between black workers and others in the US owes to differences in jobs found through social connections? Panel data from the NLSY79 are used to estimate a job search model in which individual human capital is distinguished from social capital by comparing the wages and frequency of jobs found directly with those of jobs found through friends. Jobs found through friends tend to pay more, but this premium is lower for black workers; the difference can account for 10% of the racial wage gap.
@@ -24,8 +28,6 @@ In the financial crisis of 2008, losses on popular new securitized products far 
 <p style="text-align: right">
 <h3>Work in progress</h3>
 </p>
-<b>Optimal Echo Chambers</b> (with [Gabriel Martinez-Roa](https://gabriel-martinez-roa.github.io/))
-
 <b>Credit Lines and the Amplification of Financial Shocks</b> (with [Kyle Dempsey](https://sites.google.com/site/kylepatrickdempsey/))
 
 
