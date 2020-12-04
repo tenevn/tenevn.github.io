@@ -3,7 +3,7 @@ permalink: /cv/
 title: "Curriciulum Vitae"
 ---
 <h5>Fields of Interest</h5>
-Labor Economics, Networks, Finance
+Labor Economics, Networks, Applied Microeconomics
 
 <h5>Employment</h5>
 Office of the Comptroller of the Currency, Compliance Risk Analysis Division.  
@@ -26,6 +26,7 @@ Matlab, Stata
 &emsp; &emsp;   _International Economic Review_, 2019.
 
 <h5>Working Papers</h5>
+"Optimal Echo Chambers," with Gabriel Martinez.
 "Social Connections and Racial Wage Inequality."  
 "Coordinated Shirking."
 
