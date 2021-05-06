@@ -13,9 +13,9 @@ We develop a model in which costly voting in a large two-party election is a seq
 <p style="text-align: right">
 <h3>Working papers</h3>
 </p>
-<b>Optimal Echo Chambers</b> (with [Gabriel Martinez-Roa](https://gabriel-martinez-roa.github.io/))<br>
-[latest draft October 2020](https://arxiv.org/abs/2010.01249) <br>
-This paper studies some benefits of ignoring those who disagree with you. We model a decision maker who draws a signal about the (real-valued) state of the world from a collection of unbiased sources of heterogeneous quality. Exclusively sampling signals close to the prior expectation can be beneficial, as they are more likely high quality. Since echo chambers are a rational response to uncertain information quality, eliminating them can backfire. Signals close to the prior expectation can move beliefs further than more contrary views; limiting the ability to ignore opposing views can make beliefs less accurate and reduce the extent to which signals are heeded. 
+<b>Optimal Echo Chambers</b> (with [Gabriel Martinez](https://gabriel-martinez-roa.github.io/))<br>
+[latest draft April 2021](https://arxiv.org/abs/2010.01249) <br>
+This paper shows that echo chambers are a rational response to uncertain information quality, and that eliminating them can result in less accurate beliefs. We model a Bayesian decision maker who draws a signal about the (real-valued) state of the world from a collection of unbiased sources of heterogeneous quality. We show that exclusively sampling signals close to the prior expectation can improve accuracy, as they are more likely high quality. Signals close to the prior expectation can move beliefs further than more contrary views; the ability to ignore those with opposing beliefs makes one more responsive to others' views, since it increases their perceived accuracy. The optimal echo chamber balances the credibility of views similar to one's own against the usefulness of those further away.
 
 <b>Social Connections and Racial Wage Inequality</b> <br>
 [latest draft May 2020](https://osf.io/vm82w/) *(previously titled [Social Capital and Racial Inequality](https://sites.google.com/site/nicholastenev/tenev_JMP.pdf))* <br>
