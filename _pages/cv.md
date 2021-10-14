@@ -7,8 +7,8 @@ Labor Economics, Networks, Applied Microeconomics
 
 <h5>Employment</h5>
 Office of the Comptroller of the Currency, Compliance Risk Analysis Division.  
-&emsp; &emsp;   _Senior Financial Economist_, October 2021-present.  
-&emsp; &emsp;  _Financial Economist_, August 2018-October 2021.   
+&emsp; &emsp;   _Senior Financial Economist_, October 2021–present.  
+&emsp; &emsp;  _Financial Economist_, August 2018–September 2021.   
 Barclays Capital, US Economics Research.  
 &emsp; &emsp;   _Assistant Vice President_, March–June 2011.  
 &emsp; &emsp;  _Analyst_, July 2008–February 2011.  
