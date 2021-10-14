@@ -20,7 +20,7 @@ M.A. Economics, Duke University, 2012
 B.A. Physics and Economics-Mathematics, Columbia University, 2008  
 
 <h5>Technical skills</h5>
-Matlab, Stata
+Matlab, Stata, R
 
 <h5>Publications</h5>
 "Voting and Social Pressure Under Imperfect Information," with Alexander Clark.  
