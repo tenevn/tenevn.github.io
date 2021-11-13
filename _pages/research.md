@@ -14,7 +14,7 @@ We develop a model in which costly voting in a large two-party election is a seq
 <h3>Working papers</h3>
 </p>
 <b>Optimal Echo Chambers</b> (with [Gabriel Martinez](https://gabriel-martinez-roa.github.io/))<br>
-[latest draft October 2021](https://arxiv.org/abs/2010.01249) <br>
+[latest draft November 2021](https://arxiv.org/abs/2010.01249) <br>
 We show that echo chambers are a rational response to uncertain information quality, and that broadening the range of views someone is exposed to can make their beliefs both less accurate and less responsive to the views of others. A Bayesian decision maker draws a signal about the (real-valued) state of the world from a collection of unbiased sources of heterogeneous quality. We show that exclusively sampling signals close to the prior expectation can improve accuracy, as they are more likely high quality. Signals close to the prior expectation can move beliefs further than more contrary views; the ability to ignore those with opposing beliefs makes one more responsive to others' views, since it increases their perceived accuracy. The optimal echo chamber balances the credibility of views similar to one's own against the usefulness of those further away. 
 
 <b>Social Connections and Racial Wage Inequality</b> <br>
