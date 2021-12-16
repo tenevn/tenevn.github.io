@@ -22,7 +22,7 @@ B.A. Physics and Economics-Mathematics, Columbia University, 2008
 <h5>Technical skills</h5>
 Matlab, Stata, R
 
-<h5>Publications</h5>
+<h5>Published Research</h5>
 "Voting and Social Pressure Under Imperfect Information," with Alexander Clark.  
 &emsp; &emsp;   _International Economic Review_, 2019.
 
