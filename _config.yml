@@ -78,7 +78,7 @@ author:
     - label: "Twitter"
       icon: "fab fa-twitter-square"
       url: "https://twitter.com/nick_tenev"
-    - label: "Mastadon"
+    - label: "Mastodon"
       icon: "fab fa-twitter-square"
       url: "https://econtwitter.net/@tenev"
 #    - label: "GitHub"
