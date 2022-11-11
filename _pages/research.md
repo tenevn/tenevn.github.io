@@ -25,11 +25,6 @@ How much of the wage gap between black workers and others in the US owes to diff
 [latest draft November 2018](https://osf.io/preprints/socarxiv/264vt/) <br>
 In the financial crisis of 2008, losses on popular new securitized products far exceeded predictions. This paper studies this episode with a model of technology adoption: a principal tries to induce costly effort from a group of agents charged with vetting new technology. The principal is unwilling to simultaneously punish large groups of agents, so they shirk when coordination is possible. Widely applicable technology expands productive possibilities but also provides an opportunity for coordinated shirking, and can thus lead to widespread production failure. Furthermore, even agents who learn that they are using flawed technology may continue to do so.
 
-<p style="text-align: right">
-<h3>Work in progress</h3>
-</p>
-<b>Credit Lines and the Amplification of Financial Shocks</b> (with [Kyle Dempsey](https://sites.google.com/site/kylepatrickdempsey/))
-
 
 
 
