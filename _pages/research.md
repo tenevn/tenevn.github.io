@@ -15,6 +15,7 @@ We develop a model in which costly voting in a large two-party election is a seq
 </p>
 <b>Optimal Echo Chambers</b> (with [Gabriel Martinez](https://gabriel-martinez-roa.github.io/))<br>
 [latest draft December 2022](https://arxiv.org/abs/2010.01249) <br>
+When learning from others, people often focus their attention on those with similar views. This is often attributed to flawed reasoning, and thought to slow learning and polarize beliefs. However, we show that echo chambers are a rational response to uncertain information quality, and can improve learning and reduce disagreement. Furthermore, broadening the range of views someone is exposed to can backfire, slowing their learning by making them less responsive to the views of others. A Bayesian decision maker learns about the world by first selecting a set of information sources and then observing a signal from one of them. If some sources are more accurate than others but it's not clear which, sampling the signals close to one's prior expectation is more informative, as they are more likely high quality. The optimal echo chamber balances the credibility of views similar to one's own against the usefulness of those further away. 
 
 <b>Social Connections and Racial Wage Inequality</b> <br>
 [latest draft May 2020](https://osf.io/vm82w/) *(previously titled [Social Capital and Racial Inequality](https://sites.google.com/site/nicholastenev/tenev_JMP.pdf))* <br>
