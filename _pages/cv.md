@@ -24,6 +24,7 @@ B.A. Physics and Economics-Mathematics, Columbia University, 2008
 &emsp; &emsp;   _International Economic Review_, 2019.
 
 <h5>Working Papers</h5>
+"De-Biasing Models of Biased Decisions: A Comparison of Methods Using Mortgage Application Data."  
 "Optimal Echo Chambers," with Gabriel Martinez.  
 "Social Connections and Racial Wage Inequality."  
 "Coordinated Shirking."
