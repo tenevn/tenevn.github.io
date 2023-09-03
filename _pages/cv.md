@@ -31,5 +31,10 @@ Matlab, Stata, R
 "Social Connections and Racial Wage Inequality."  
 "Coordinated Shirking."
 
+<h5>Conference Presentations</h5>
+Econometric Society North American Summer Meeting, 2023
+Delhi Winter School, Delhi School of Economics and the Econometric Society, 2021
+EconCon, 2016
+
 
 
