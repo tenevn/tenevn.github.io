@@ -19,9 +19,6 @@ M.S. Economics, University of Wisconsin–Madison, 2014
 M.A. Economics, Duke University, 2012  
 B.A. Physics and Economics-Mathematics, Columbia University, 2008  
 
-<h5>Technical skills</h5>
-Matlab, Stata, R
-
 <h5>Published Research</h5>
 "Voting and Social Pressure Under Imperfect Information," with Alexander Clark.  
 &emsp; &emsp;   _International Economic Review_, 2019.
@@ -35,6 +32,10 @@ Matlab, Stata, R
 Econometric Society North American Summer Meeting, 2023.
 Delhi Winter School, Delhi School of Economics and the Econometric Society, 2021.
 EconCon, 2016.
+
+<h5>Technical skills</h5>
+Matlab, Stata, R
+
 
 
 
