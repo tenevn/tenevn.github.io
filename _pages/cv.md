@@ -30,7 +30,9 @@ B.A. Physics and Economics-Mathematics, Columbia University, 2008
 
 <h5>Conference Presentations</h5>
 Econometric Society North American Summer Meeting, 2023.
+
 Delhi Winter School, Delhi School of Economics and the Econometric Society, 2021.
+
 EconCon, 2016.
 
 <h5>Technical skills</h5>
