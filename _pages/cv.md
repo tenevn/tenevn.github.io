@@ -26,6 +26,7 @@ B.A. Physics and Economics-Mathematics, Columbia University, 2008
 <h5>Working Papers</h5>
 "De-Biasing Models of Biased Decisions: A Comparison of Methods Using Mortgage Application Data."  
 "Optimal Echo Chambers," with Gabriel Martinez.  
+"Racial and Ethnic Disparities in Mortgage Lending: New Evidence from Expanded HMDA Data," with Sean Lewis-Faupel.  
 "Social Connections and Racial Wage Inequality."  
 "Coordinated Shirking."
 
