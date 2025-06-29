@@ -15,7 +15,7 @@ We develop a model in which costly voting in a large two-party election is a seq
 </p>
 
 <b>Optimal Echo Chambers</b> (with [Gabriel Martinez](https://gabriel-martinez-roa.github.io/))<br>
-[latest draft February 2024](https://arxiv.org/abs/2010.01249) <br>
+[latest draft June 2025](https://arxiv.org/abs/2010.01249) <br>
 When learning from others, people tend to focus their attention on those with similar views. This is often attributed to flawed reasoning, and thought to slow learning and polarize beliefs. However, we show that echo chambers are a rational response to uncertainty about the accuracy of information sources, and can improve learning and reduce disagreement. Furthermore, overextending the range of views someone is exposed to can backfire, slowing their learning by making them less responsive to information from others. We model a Bayesian decision maker who chooses a set of information sources and then observes a signal from one. With uncertainty about which sources are accurate, focusing attention on signals close to one's own expectation can be beneficial, as their expected accuracy is higher. The optimal echo chamber balances the credibility of views similar to one's own against the usefulness of those further away. 
 
 <b>De-Biasing Models of Biased Decisions: A Comparison of Methods Using Mortgage Application Data</b><br>
