@@ -16,10 +16,12 @@ We develop a model in which costly voting in a large two-party election is a seq
 
 <b>Optimal Echo Chambers</b> (with [Gabriel Martinez](https://gabriel-martinez-roa.github.io/))<br>
 [latest draft June 2025](https://arxiv.org/abs/2010.01249) <br>
+<i>Revising for resubmission to European Economic Review</i><br>
 When learning from others, people tend to focus their attention on those with similar views. This is often attributed to flawed reasoning, and thought to slow learning and polarize beliefs. However, we show that echo chambers are a rational response to uncertainty about the accuracy of information sources, and can improve learning and reduce disagreement. Furthermore, overextending the range of views someone is exposed to can backfire, slowing their learning by making them less responsive to information from others. We model a Bayesian decision maker who chooses a set of information sources and then observes a signal from one. With uncertainty about which sources are accurate, focusing attention on signals close to one's own expectation can be beneficial, as their expected accuracy is higher. The optimal echo chamber balances the credibility of views similar to one's own against the usefulness of those further away. 
 
 <b>De-Biasing Models of Biased Decisions: A Comparison of Methods Using Mortgage Application Data</b><br>
 [latest draft July 2023](https://arxiv.org/abs/2405.00910) <br>
+<i>Revising for resubmission to Journal of Artificial Intelligence Research</i><br>
 Prediction models can improve efficiency by automating decisions such as the approval of loan applications. However, they may inherit bias against protected groups from the data they are trained on. This paper adds counterfactual (simulated) ethnic bias to real data on mortgage application decisions, and shows that this bias is replicated by a machine learning model (XGBoost) even when ethnicity is not used as a predictive variable. Next, several other de-biasing methods are compared: averaging over prohibited variables, taking the most favorable prediction over prohibited variables (a novel method), and jointly minimizing errors as well as the association between predictions and prohibited variables. De-biasing can recover some of the original decisions, but the results are sensitive to whether the bias is effected through a proxy.
 
 <b>Coordinated Shirking in Technology Adoption</b> <br>
