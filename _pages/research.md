@@ -14,10 +14,10 @@ We develop a model in which costly voting in a large two-party election is a seq
 <h3>Working papers</h3>
 </p>
 
-<b>Optimal Echo Chambers</b> (with [Gabriel Martinez](https://gabriel-martinez-roa.github.io/))<br>
-[latest draft June 2025](https://arxiv.org/abs/2010.01249) <br>
+<b>Confirmation Bias as Rational Mistrust</b> (with [Gabriel Martinez](https://gabriel-martinez-roa.github.io/))<br>
+[latest draft September 2026](https://arxiv.org/abs/2010.01249) <br>
 <i>Revising for resubmission to European Economic Review</i><br>
-When learning from others, people tend to focus their attention on those with similar views. This is often attributed to flawed reasoning, and thought to slow learning and polarize beliefs. However, we show that echo chambers are a rational response to uncertainty about the accuracy of information sources, and can improve learning and reduce disagreement. Furthermore, overextending the range of views someone is exposed to can backfire, slowing their learning by making them less responsive to information from others. We model a Bayesian decision maker who chooses a set of information sources and then observes a signal from one. With uncertainty about which sources are accurate, focusing attention on signals close to one's own expectation can be beneficial, as their expected accuracy is higher. The optimal echo chamber balances the credibility of views similar to one's own against the usefulness of those further away. 
+When learning from others, people tend to focus their attention on those with similar views. This is often attributed to flawed reasoning, and thought to slow learning and polarize beliefs. However, we show that this confirmatory bias is a rational response to uncertainty about the accuracy of information sources, and can improve learning and reduce disagreement among those with diverse beliefs. Furthermore, extending the range of views someone is exposed to can backfire, slowing their learning by reducing trust. We model a Bayesian decision maker who chooses an acceptable range of content, and then observes one report drawn from those that fall within that range. With uncertainty about which sources are accurate, excluding opposing views can be beneficial, as they are more likely to come from inaccurate sources. The optimal range of views to pay attention to balances the credibility of views similar to one's own against the usefulness of those further away.
 
 <b>De-Biasing Models of Biased Decisions: A Comparison of Methods Using Mortgage Application Data</b><br>
 [latest draft July 2023](https://arxiv.org/abs/2405.00910) <br>
