@@ -15,6 +15,7 @@ We develop a model in which costly voting in a large two-party election is a seq
 </p>
 
 <b>Confirmation Bias as Rational Mistrust</b> (with [Gabriel Martinez](https://gabriel-martinez-roa.github.io/))<br>
+(previously titled "Optimal Echo Chambers") <br>
 [latest draft September 2026](https://arxiv.org/abs/2010.01249) <br>
 <i>Revising for resubmission to European Economic Review</i><br>
 When learning from others, people tend to focus their attention on those with similar views. This is often attributed to flawed reasoning, and thought to slow learning and polarize beliefs. However, we show that this confirmatory bias is a rational response to uncertainty about the accuracy of information sources, and can improve learning and reduce disagreement among those with diverse beliefs. Furthermore, extending the range of views someone is exposed to can backfire, slowing their learning by reducing trust. We model a Bayesian decision maker who chooses an acceptable range of content, and then observes one report drawn from those that fall within that range. With uncertainty about which sources are accurate, excluding opposing views can be beneficial, as they are more likely to come from inaccurate sources. The optimal range of views to pay attention to balances the credibility of views similar to one's own against the usefulness of those further away.
